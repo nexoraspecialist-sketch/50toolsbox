@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Toolbox 50",
+  "description": "Fast, trustworthy browser utilities that keep private data local.",
+  "url": "https://toolbox50.local/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://toolbox50.local/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}

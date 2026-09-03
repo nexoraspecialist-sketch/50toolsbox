@@ -1,0 +1,7 @@
+name = "50toolboxs"
+compatibility_date = "2026-09-03"
+
+# This repo already contains the built site (index.html, /assets, /functions)
+# at the root — there is no separate source/build step, so the output
+# directory is just the project root.
+pages_build_output_dir = "."
